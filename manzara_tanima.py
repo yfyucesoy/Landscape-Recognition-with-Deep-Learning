@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+"""
+@author: Yusuf Furkan Yucesoy
+"""
+
 #%%
 import tensorflow.keras.layers as Layers
 import tensorflow.keras.activations as Actications
